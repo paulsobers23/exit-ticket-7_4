@@ -10,15 +10,14 @@ Fork and clone this repo before completing the steps below.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Fisher | Derek | QB | 2 | 210 | 74 | January 2, 1999 |
 | 2 | Cunningham | Reginald | DE | 55 | 240 | 75 | April 3, 1998 |
-| 3 | Jackson | Stephen |  |  | 184 | 76 | October 13, 1998 |
+| 3 | Jackson | Stephen | WR | 13 | 184 | 76 | October 13, 1998 |
 | 4 | Colton | Ryan | K | 81 | 238 | 74 | December 12, 1998 |
 | 5 | Wright | Alexander | RB | 23 | 190 | 70 | March 13, 1999 |
 | 6 | Smalls | Elliot | OLB | 33 | 215 | 69 | February 23, 1999 |
 
    #### Notes:
    * IDs are unique identifiers for each player.   
-   * First and last names must be present.   
-   * Position and number are not mandatory.   
+   * Position and jersey number are not mandatory. Everything else is.   
    * Position is always an abbreviation of either one, two, or three letters.   
 
 ---
