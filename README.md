@@ -15,10 +15,10 @@ Fork and clone this repo before completing the steps below.
 | 5 | Wright | Alexander | RB | 23 | 190 | 70 | March 13, 1999 |
 
    #### Notes:
-   IDs are unique identifiers for each player.   
-   First and last names must be present.   
-   Position and number are not mandatory.   
-   Position is always an abbreviation of either one, two, or three letters.   
+   * IDs are unique identifiers for each player.   
+   * First and last names must be present.   
+   * Position and number are not mandatory.   
+   * Position is always an abbreviation of either one, two, or three letters.   
 
 ---
 
@@ -32,6 +32,7 @@ Fork and clone this repo before completing the steps below.
 
 5. Add the following rows to you table.
 |ID | Last Name | First Name | Position | Jersey Number | Weight (lb.) | Height (in.) | Date of Birth|
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 6 | Jamison | Zion | ATH | 2 | 285 | 80 | October 25, 2000 |
 | 7 | Johnson | Craig | P | 17 | 173 | 72 | November 25, 1999 |
 
