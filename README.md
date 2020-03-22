@@ -31,7 +31,7 @@ Fork and clone this repo before completing the steps below.
 4. Sometimes, recruited players don't have a specified position. These players are generally categories as "Athletes". Set a default value for your _position_ column so that if a player's position is not specified, it defaults to `'ATH'`.
 
 5. Add the following rows to you table.   
-|ID | Last Name | First Name | Position | Jersey Number | Weight (lb.) | Height (in.) | Date of Birth|
+| ID | Last Name | First Name | Position | Jersey Number | Weight (lb.) | Height (in.) | Date of Birth|
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 6 | Jamison | Zion | ATH | 2 | 285 | 80 | October 25, 2000 |
 | 7 | Johnson | Craig | P | 17 | 173 | 72 | November 25, 1999 |
