@@ -13,7 +13,7 @@ Fork and clone this repo before completing the steps below.
 | 3 | Jackson | Stephen |  |  | 184 | 76 | October 13, 1998 |
 | 4 | Colton | Jackson | K | 81 | 238 | 74 | December 12, 1998 |
 | 5 | Wright | Alexander | RB | 23 | 190 | 70 | March 13, 1999 |
-| 5 | Smalls | Elliot | OLB | 33 | 215 | 69 | February 23, 1999 |
+| 6 | Smalls | Elliot | OLB | 33 | 215 | 69 | February 23, 1999 |
 
    #### Notes:
    * IDs are unique identifiers for each player.   
