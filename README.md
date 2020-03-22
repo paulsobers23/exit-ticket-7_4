@@ -34,7 +34,7 @@ Fork and clone this repo before completing the steps below.
 
 | ID | Last Name | First Name | Position | Jersey Number | Weight (lb.) | Height (in.) | Date of Birth |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 6 | Jamison | Zion | ATH | 2 | 285 | 80 | October 25, 2000 |
+| 6 | Jamison | Zion | ATH | 12 | 285 | 80 | October 25, 2000 |
 | 7 | Johnson | Craig | P | 17 | 173 | 72 | November 25, 1999 |
 
 ## Submissions
