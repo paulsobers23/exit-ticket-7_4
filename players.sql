@@ -3,7 +3,7 @@ id integer UNIQUE,
 last_name text,
 first_name text,
 position text ,
-jersery_number integer,
+jersey_number integer,
 weight_lb integer,
 height_in integer,
 date_of_birth date
