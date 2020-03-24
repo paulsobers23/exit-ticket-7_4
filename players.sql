@@ -23,7 +23,7 @@ ALTER COLUMN position SET DEFAULT 'AHT',
 ADD CHECK (jersey_number > 1 AND jersey_number < 100), 
 ALTER COLUMN jersey_number SET NOT NULL;
 
-ALTER TABLE players ADD CONSTRAINT unique_jersey_number UNIQUE(jersey_number);
+ALTER TABLE players ADD CONSTRAINT unique_jersey_number UNIQUE (jersey_number);
 
 INSERT INTO players VALUES(7,'Jamison','Zion','AHT',12,285,80,'1999-11-25');
 INSERT INTO players VALUES(8,'Johnson','Craig','P',17,173,72);
